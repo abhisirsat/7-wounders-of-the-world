@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-size: 20px;
+    background-color: pink;
+    color: green;
+    border: solid;
+  }
+  h1 {
+    color: red;
+    border: dashed;
+  }
+  p {
+    color: purple;
+    border: dotted;
+  }
+  img {
+    color: blue;
+    border: solid;
+  }
+  
